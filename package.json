@@ -1,0 +1,7 @@
+{
+  "name": "200-club",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Hold'em for friends. 200 chips to sit down.",
+  "engines": { "node": ">=18" }
+}
